@@ -1,4 +1,4 @@
-# ecommerce_app_ui_kit
+# WeddingApp
 
 A new Flutter project.
 
